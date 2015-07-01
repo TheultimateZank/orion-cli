@@ -13,7 +13,7 @@ not done yet
 ## How to use
 
 ```bash
-orion set-profile jade&sass
+orion set-profile jadesass
 ```
 
 https://github.com/matteodem/orion-cli/blob/master/README.md
