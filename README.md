@@ -12,4 +12,6 @@ not done yet
     
 ## How to use
 
+orion set-profile jade&sass
+
 https://github.com/matteodem/orion-cli/blob/master/README.md
