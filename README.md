@@ -12,6 +12,8 @@ not done yet
     
 ## How to use
 
+```bash
 orion set-profile jade&sass
+```
 
 https://github.com/matteodem/orion-cli/blob/master/README.md
