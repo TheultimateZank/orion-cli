@@ -12,4 +12,4 @@ not done yet
     
 ## How to use
 
-https://github.com/matteodem/orion-cli
+https://github.com/matteodem/orion-cli/blob/master/README.md
