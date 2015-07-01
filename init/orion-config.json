@@ -104,7 +104,7 @@
           "private/templates/less/module.less"
         ]
       },
-      "jade&sass" : {
+      "jadesass" : {
         "files" : [
           "private/templates/jade/module.jade",
           "private/templates/js/module.js",
@@ -167,7 +167,7 @@
           "private/templates/html/layout.html"
         ]
       },
-      "jade&sass" : {
+      "jadesass" : {
         "files" : [
           "private/templates/jade/layout.jade"
         ]
@@ -186,7 +186,7 @@
           "private/templates/html/common.html"
         ]
       },
-      "jade&sass" : {
+      "jadesass" : {
         "files" : [
           "private/templates/jade/module.jade"
         ]
@@ -226,7 +226,7 @@
         "private/templates/reset/main.less"
       ]
     },
-    "jade&sass" : {
+    "jadesass" : {
       "files" : [
         "private/templates/reset/homejade.jade",
         "private/templates/reset/layoutjade.jade",
