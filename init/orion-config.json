@@ -14,6 +14,12 @@
           "private/templates/js/view.js"
         ]
       },
+      "jade" : {
+        "files" : [
+          "private/templates/jade/view.jade",
+          "private/templates/js/view.js"
+        ]
+      },
       "es6" : {
         "files" : [
           "private/templates/html/view.html",
@@ -98,6 +104,13 @@
           "private/templates/less/module.less"
         ]
       },
+      "jade&sass" : {
+        "files" : [
+          "private/templates/jade/module.jade",
+          "private/templates/js/module.js",
+          "private/templates/sass/module.sass"
+        ]
+      },
       "es6" : {
         "files" : [
           "private/templates/html/module.html",
@@ -127,6 +140,20 @@
         ]
       }
     },
+    "sass":{
+      "default" : {
+        "desc" : "Sass Stylesheet for general and additional styles",
+        "variables" : [
+          {
+            "name" : "stylesheetName",
+            "desc" : "What's the name of your stylesheet?"
+          }
+        ],
+        "files" : [
+          "private/templates/sass/stylesheet.sass"
+        ]
+      }
+    },
     "layout" : {
       "default" : {
         "desc" : "Iron Layout template which yields your content",
@@ -138,6 +165,11 @@
         ],
         "files" : [
           "private/templates/html/layout.html"
+        ]
+      },
+      "jade&sass" : {
+        "files" : [
+          "private/templates/jade/layout.jade"
         ]
       }
     },
@@ -152,6 +184,11 @@
         ],
         "files" : [
           "private/templates/html/common.html"
+        ]
+      },
+      "jade&sass" : {
+        "files" : [
+          "private/templates/jade/module.jade"
         ]
       }
     }
@@ -187,6 +224,15 @@
         "private/templates/reset/routerConfig.coffee",
         "private/templates/reset/mainRoutes.coffee",
         "private/templates/reset/main.less"
+      ]
+    },
+    "jade&sass" : {
+      "files" : [
+        "private/templates/reset/homejade.jade",
+        "private/templates/reset/layoutjade.jade",
+        "private/templates/reset/routerConfig.js",
+        "private/templates/reset/mainRoutes.js",
+        "private/templates/reset/main.sass"
       ]
     }
   }

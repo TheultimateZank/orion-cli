@@ -1,7 +1,7 @@
 {
-  "name": "orion-cli",
-  "version": "0.1.5",
-  "description": "Console scaffolding and development tool for Meteor Projects",
+  "name": "fork orion-cli",
+  "version": "0.1",
+  "description": "support jade & sass",
   "main": "notExistant.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,9 +14,6 @@
     "orion": "./bin/orion"
   },
   "author": "Matteo De Micheli",
-  "bugs": {
-    "url": "https://github.com/matteodem/orion-cli/issues"
-  },
   "homepage": "https://github.com/matteodem",
   "dependencies": {
     "colors": "^1.0.3",
