@@ -14,7 +14,7 @@
           "private/templates/js/view.js"
         ]
       },
-      "jade" : {
+      "jadesass" : {
         "files" : [
           "private/templates/jade/view.jade",
           "private/templates/js/view.js"
